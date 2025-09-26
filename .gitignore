@@ -1,0 +1,17 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.so
+
+# User-specific files
+*.user
+*.suo
+
+# Common C++ temporary files
+*.tmp
+*.temp
