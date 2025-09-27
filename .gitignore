@@ -15,3 +15,7 @@
 # Common C++ temporary files
 *.tmp
 *.temp
+
+# VS Code
+.vscode/
+*.vscode
